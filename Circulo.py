@@ -6,3 +6,6 @@ import math
 print("Ingrese el radio del circulo: ")
 # Capturar el radio:
 r = float(input())
+# Optener el valor de pi:
+pi = math.pi
+print("Valor de PI: ",pi)
